@@ -1,0 +1,10 @@
+#usrClickable{
+ background-color:gray;
+ color:white;
+ width: 250px;
+ height: 200px;
+ position: relative;
+ left: 100px;
+ top: 200px;
+ 
+}
